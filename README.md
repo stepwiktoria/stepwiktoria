@@ -1,5 +1,5 @@
 
-Cześć! Jestem Wiktoria Stępień. Od czerwca pracuję w IT, specjalizując się w Rapid Response, poza tym studiuje informatykę i ekonometrię. Poniżej znajdziesz krótki opis moich umiejętności oraz projekty, nad którymi pracuję.
+Cześć! Jestem Wiktoria Stępień. Od czerwca 2023 pracuję w IT, specjalizując się w Rapid Response, poza tym studiuje informatykę i ekonometrię. Poniżej znajdziesz krótki opis moich umiejętności oraz projekty, nad którymi pracuję.
 
 Moje główne obszary ekspertyzy to:
 Rapid Response,
