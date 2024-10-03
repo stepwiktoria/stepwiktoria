@@ -21,7 +21,7 @@ Aktualnie pracuję jako IT Consultant, specjalizując się w Kinaxis Rapid Respo
 
 Kontakt
 Jeśli chcesz się ze mną skontaktować, śmiało napisz do mnie tutaj na GitHubie. Dziękuję za odwiedzenie mojego profilu! 😊
-
+----------------------------------------------------------------------------------------------------------------------
 
 Hi! I'm Wiktoria.
 Since June 2023, I have been working in IT, specializing in Rapid Response, while also studying Computer Science and Econometrics. Below you'll find a brief overview of my skills and the projects I'm working on.
